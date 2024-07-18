@@ -2,8 +2,5 @@ welcome this is pallavi
 this is my second commit
 this is my third commit
 hello all
-<<<<<<< HEAD
 hi pallavi jagtap
 hellooo this git class
-=======
->>>>>>> parent of 816966a (demo reverting)
